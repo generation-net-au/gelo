@@ -1,2 +1,1 @@
-# gelo
-Generation Examples Library for OpenShift (GELO)
+# Generation Examples Library for OpenShift (GELO)
